@@ -15,6 +15,18 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+# API NEWS
+
+`https://newsapi.org/docs/endpoints/top-headlines`
 
 # http
-https://pub.dev/packages/http/install
+
+`https://pub.dev/packages/http/install`
+
+# Cached_network_image
+
+`https://pub.dev/packages/cached_network_image`
+
+# Webview Flutter
+
+`https://pub.dev/packages/webview_flutter`
